@@ -36,9 +36,8 @@ alles wat in de dice array 0 is laat je rollen en wat je wil vasthouden op 0 zet
 gebruik enhanced for loops
 maak een klasse worp??
 abstract class van worp punten
-ideetje: Yahtzee tegen bots, iedereen die bots kan verslaan komt in een lijst
-	- score vermelden in lijst?
-	- hoelang wordt de lijst en wie blijft erin
+- score lijst
+- hoelang wordt de lijst en wie blijft erin
 
 
 spelverloop:
@@ -52,10 +51,8 @@ SPELER 1 blok
 *vraag als welke combinatie de speler dit will opslaan en geef de combinatie opties
 ontoud de speler combinatie en punten
 
-bots blok
-(zelfde als speler 1)
-
 herhaal dit 5 keer
 tel de punten op
 verklaar winnaar
 
+check highscore
